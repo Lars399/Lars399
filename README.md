@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carspotlars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carspotlars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)# 💫 About Me:
 🔭 I’m currently working on: Nothing<br>🌱 I’m currently learning: Data Science (orientation) JavaScript <br>💬 Ask me about: Star Wars, cars/bikes, War Thunder, Dead by Daylight<br>⚡ Fun fact: My first project was making Pong in Python<br>🌍 Dutch<br>📃 Degrees: MBO 4 Software Developer (Scalda)<br>📚 Current study: HBO-ICT (HZ Middelburg)
 
 
