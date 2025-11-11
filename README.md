@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carspotlars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lars-loois-5b3268236) <br>
-💫 About Me: <br>🔭 I’m currently working on: Nothing<br>💬 Ask me about: Star Wars, cars/bikes, War Thunder, Dead by Daylight<br>⚡ Fun fact: My first project was making Pong in Python<br>🌍 Dutch<br>📃 Degrees: MBO 4 Software Developer (Scalda)<br>📚 Current study: HBO-ICT (HZ Middelburg)
+💫 About Me: <br>🔭 I’m currently working on: Private photography portfolio website <br>💬 Ask me about: Star Wars, cars/bikes, War Thunder, Dead by Daylight<br>⚡ Fun fact: My first project was making Pong in Python<br>🌍 Dutch<br>📃 Degrees: MBO 4 Software Developer (Scalda)<br>📚 Current study: HBO-ICT (HZ Middelburg)
 
 
 ## 🌐 Socials:
