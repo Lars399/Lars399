@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Nothing<br>🌱 I’m currently learning: Data Science (orientation) JavaScript <br>💬 Ask me about: Star Wars, cars/bikes, War Thunder, Dead by Daylight<br>⚡ Fun fact: My first project was making Pong in Python<br>🌍 Dutch<br>📃 Degrees: MBO 4 Software Developer (Scalda)<br>📚 Current study: HBO-ICT (HZ Middelburg)
+🔭 I’m currently working on: Nothing<br>🌱 I’m currently learning: Software design <br>💬 Ask me about: Star Wars, cars/bikes, War Thunder, Dead by Daylight<br>⚡ Fun fact: My first project was making Pong in Python<br>🌍 Dutch<br>📃 Degrees: MBO 4 Software Developer (Scalda)<br>📚 Current study: HBO-ICT (HZ Middelburg)
 
 
 ## 🌐 Socials:
